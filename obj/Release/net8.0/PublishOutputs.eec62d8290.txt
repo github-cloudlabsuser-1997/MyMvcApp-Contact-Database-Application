@@ -1,0 +1,10 @@
+C:\Users\azureuser\Github Copilot\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\MyMvcApp.exe
+C:\Users\azureuser\Github Copilot\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\azureuser\Github Copilot\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\appsettings.json
+C:\Users\azureuser\Github Copilot\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\ARMTemplates\deploy.json
+C:\Users\azureuser\Github Copilot\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\ARMTemplates\deploy.parameters.json
+C:\Users\azureuser\Github Copilot\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\MyMvcApp.dll
+C:\Users\azureuser\Github Copilot\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\MyMvcApp.deps.json
+C:\Users\azureuser\Github Copilot\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\MyMvcApp.runtimeconfig.json
+C:\Users\azureuser\Github Copilot\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\MyMvcApp.pdb
+C:\Users\azureuser\Github Copilot\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
